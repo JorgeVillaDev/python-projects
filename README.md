@@ -1,2 +1,2 @@
-# python-projects
+# Python-Projects
 Python Udemy course 
